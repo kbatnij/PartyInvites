@@ -1,6 +1,6 @@
 ASP.NET MVC 5 Practice
 
-This website created in ASP.NET MVC 5 to ask people if they want to attend said party. 
+This website created in ASP.NET MVC 5 to ask people if they want to attend a ficitonal party. 
 
 Those who RSVP get an email confirmation of the RSVP.
 
